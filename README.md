@@ -8,12 +8,6 @@ Just clean conversions.
 
 ---
 
-## 🚀 Live Demo
-
-👉 https://image-converter-zeta-woad.vercel.app/
-
----
-
 ## ✨ Features
 
 - Convert images to **PNG / JPG / WEBP**
@@ -53,5 +47,3 @@ All processing happens **locally in your browser**.
 No images are uploaded to a server.
 
 ---
-
-Built by **@berkindev** as part of **30 Days – 30 Web Apps**.
