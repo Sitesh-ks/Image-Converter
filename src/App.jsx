@@ -118,7 +118,6 @@ export default function App() {
       <div className="credits-bottom">
         Coded by{" "}
         <a
-          href="https://instagram.com/berkindev"
           target="_blank"
           rel="noreferrer"
         >
